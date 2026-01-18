@@ -1,14 +1,15 @@
 class Solution {
 public:
-    int missingNumber(vector<int>& v){
-        stable_sort(v.begin(),v.end());
-        for(int i=0;i<v.size();i++){
-            if(i!=v[i]){
-                return i;
-            }
+    int missingNumber(vector<int>& nums) {
+        int ans = nums.size();
 
+        for(int i = 0; i < nums.size(); i++) {
+            ans ^= i;
+            ans ^= nums[i];
         }
-        return v.size();
-    } 
-    
+
+        return ans;
+    }
 };
+
+
