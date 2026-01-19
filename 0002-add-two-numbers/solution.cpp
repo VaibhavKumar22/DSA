@@ -1,7 +1,7 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode dummy(0);  // Dummy node to simplify edge cases
+        ListNode dummy(0);  
         ListNode* current = &dummy;
         int carry = 0;
 
