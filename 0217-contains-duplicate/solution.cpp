@@ -6,7 +6,7 @@ public:
             if(mp[i]){
                 return true;
             }
-            mp[i]++;
+            mp[i]=1;
             
         }
         return false;
