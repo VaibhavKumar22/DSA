@@ -3,7 +3,7 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& arr) {
         if(arr.empty()) return {};
 
-        sort(arr.begin(), arr.end());  // 🔥 REQUIRED
+        sort(arr.begin(), arr.end()); 
 
         int n = arr.size();
         int j = 0;
