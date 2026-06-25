@@ -7,10 +7,11 @@ public:
             a=a*10+y%10;
             y=y/10;
         }
-        if(x==a)
-        return true;
-        else
-        return false;
+        // if(x==a)
+        // return true;
+        // else
+        // return false;
+        return x==a?true:false;
         
     }
 };
