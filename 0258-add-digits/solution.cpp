@@ -4,16 +4,17 @@ public:
         if(num<10){
             return num;
         }
-        while(num>=10){
-            int x=num;
-            int sum=0;
-            while(x>0){
-                sum=sum+x%10;
-                x=x/10;
-            }
+        int sum=0;
+        while(num>0){
+            sum+=num%10;
+            num=num/10;
+        }
+        if(sum<10)return sum;
+        else{
             num=sum;
         }
-        return num;
+       
+        return addDigits(num);
         
     }
 };
