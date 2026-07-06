@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/VaibhavKumar22/DSA/tree/master/0079-word-search) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0212-word-search-ii](https://github.com/VaibhavKumar22/DSA/tree/master/0212-word-search-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/VaibhavKumar22/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VaibhavKumar22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VaibhavKumar22/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -52,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VaibhavKumar22/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
@@ -79,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/VaibhavKumar22/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VaibhavKumar22/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
