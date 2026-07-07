@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/VaibhavKumar22/DSA/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VaibhavKumar22/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VaibhavKumar22/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
