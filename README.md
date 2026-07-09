@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/VaibhavKumar22/DSA/tree/master/0212-word-search-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/VaibhavKumar22/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/VaibhavKumar22/DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/VaibhavKumar22/DSA/tree/master/0994-rotting-oranges) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VaibhavKumar22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VaibhavKumar22/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/VaibhavKumar22/DSA/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/VaibhavKumar22/DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/VaibhavKumar22/DSA/tree/master/0994-rotting-oranges) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VaibhavKumar22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Trie
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/VaibhavKumar22/DSA/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/VaibhavKumar22/DSA/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/VaibhavKumar22/DSA/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VaibhavKumar22/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VaibhavKumar22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
