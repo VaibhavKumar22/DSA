@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VaibhavKumar22/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/VaibhavKumar22/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/VaibhavKumar22/DSA/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VaibhavKumar22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Union-Find
 |  |
 | ------- |
@@ -157,4 +161,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
