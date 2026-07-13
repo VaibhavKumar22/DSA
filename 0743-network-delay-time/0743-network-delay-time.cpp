@@ -1,15 +1,15 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-
-        vector<vector<pair<int,int>>> adj(n + 1);
-        for(auto &e : times){
-            int u = e[0];
-            int v = e[1];
-            int wt = e[2];
-            adj[u].push_back({v, wt});
+        //adj list        
+        vector <pair<int, int>> adj[n+1];
+        for(auto have : times){
+            int u = have[0];
+            int v = have[1];
+            int w = have[2];
+            adj[u].push_back({v, w});
         }
-        
+        //dist from source to all possible reachable node 
         vector<int> dist(n + 1, 1e8);
         
         priority_queue<
@@ -41,13 +41,9 @@ public:
         int ans = 0;
 
         for(int i = 1; i <= n; i++){
-
-            if(dist[i] == 1e8)
-                return -1;
-
             ans = max(ans, dist[i]);
         }
 
-        return ans;
+        return ans!=1e8?ans:-1;
     }
 };
