@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0052-n-queens-ii](https://github.com/VaibhavKumar22/DSA/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/VaibhavKumar22/DSA/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/VaibhavKumar22/DSA/tree/master/0212-word-search-ii) |
 ## Array
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/VaibhavKumar22/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/VaibhavKumar22/DSA/tree/master/0200-number-of-islands) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VaibhavKumar22/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/VaibhavKumar22/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VaibhavKumar22/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/VaibhavKumar22/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
