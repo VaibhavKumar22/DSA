@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/VaibhavKumar22/DSA/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/VaibhavKumar22/DSA/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/VaibhavKumar22/DSA/tree/master/0212-word-search-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VaibhavKumar22/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
