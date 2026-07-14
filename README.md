@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/VaibhavKumar22/DSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/VaibhavKumar22/DSA/tree/master/0212-word-search-ii) |
+| [0257-binary-tree-paths](https://github.com/VaibhavKumar22/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/VaibhavKumar22/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/VaibhavKumar22/DSA/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/VaibhavKumar22/DSA/tree/master/0212-word-search-ii) |
+| [0257-binary-tree-paths](https://github.com/VaibhavKumar22/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0443-string-compression](https://github.com/VaibhavKumar22/DSA/tree/main/0443-string-compression/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VaibhavKumar22/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VaibhavKumar22/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VaibhavKumar22/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/VaibhavKumar22/DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/VaibhavKumar22/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/VaibhavKumar22/DSA/tree/main/0547-number-of-provinces/) | Medium |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/VaibhavKumar22/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/VaibhavKumar22/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/VaibhavKumar22/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/VaibhavKumar22/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0543-diameter-of-binary-tree) |
