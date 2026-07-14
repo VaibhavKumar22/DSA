@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/VaibhavKumar22/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/VaibhavKumar22/DSA/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0733-flood-fill](https://github.com/VaibhavKumar22/DSA/tree/master/0733-flood-fill) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/VaibhavKumar22/DSA/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaibhavKumar22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/VaibhavKumar22/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/VaibhavKumar22/DSA/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/VaibhavKumar22/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/VaibhavKumar22/DSA/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/VaibhavKumar22/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
