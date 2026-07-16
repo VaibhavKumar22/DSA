@@ -6,14 +6,12 @@ class Solution {
 public:
     long long gcdSum(vector<int>& nums) {
         int n=nums.size();
-        vector<int>premax(n,0);
-        premax[0]=nums[0];
-        for(int i=1;i<n;i++){
-            premax[i]=max(nums[i],premax[i-1]);
-        }
+        int mx=INT_MIN;
+        
         vector<int>prefixgcd(n);
         for(int i=0;i<n;i++){
-            prefixgcd[i]=gcd(nums[i],premax[i]);
+            mx=max(mx,nums[i]);
+            prefixgcd[i]=gcd(nums[i],mx);
         }
 
         sort(prefixgcd.begin(),prefixgcd.end());
