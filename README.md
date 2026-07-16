@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/VaibhavKumar22/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/VaibhavKumar22/DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [2055-plates-between-candles](https://github.com/VaibhavKumar22/DSA/tree/main/2055-plates-between-candles/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VaibhavKumar22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VaibhavKumar22/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/VaibhavKumar22/DSA/tree/main/0443-string-compression/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VaibhavKumar22/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VaibhavKumar22/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [2055-plates-between-candles](https://github.com/VaibhavKumar22/DSA/tree/main/2055-plates-between-candles/) | Medium |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/VaibhavKumar22/DSA/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VaibhavKumar22/DSA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VaibhavKumar22/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2055-plates-between-candles](https://github.com/VaibhavKumar22/DSA/tree/main/2055-plates-between-candles/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VaibhavKumar22/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2055-plates-between-candles](https://github.com/VaibhavKumar22/DSA/tree/main/2055-plates-between-candles/) | Medium |
 <!---LeetCode Topics End-->
