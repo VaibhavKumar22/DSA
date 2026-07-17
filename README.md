@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/VaibhavKumar22/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/VaibhavKumar22/DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/VaibhavKumar22/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2055-plates-between-candles](https://github.com/VaibhavKumar22/DSA/tree/main/2055-plates-between-candles/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VaibhavKumar22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VaibhavKumar22/DSA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VaibhavKumar22/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/VaibhavKumar22/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2055-plates-between-candles](https://github.com/VaibhavKumar22/DSA/tree/main/2055-plates-between-candles/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Union-Find
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0443-string-compression](https://github.com/VaibhavKumar22/DSA/tree/main/0443-string-compression/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VaibhavKumar22/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/VaibhavKumar22/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VaibhavKumar22/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
