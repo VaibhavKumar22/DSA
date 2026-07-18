@@ -12,6 +12,19 @@ public:
         int row=0;
         int i=0;
         dp.resize(triangle.size(),vector<int>(triangle.size(),INT_MAX));
-        return dfs(triangle,row,i);       
+        return dfs(triangle,row,i);
+
+        //without dp we can do it by modifying the origanal traiangle
+        // int n=triangle.size(); 
+        // for(int i=n-2;n>=0;i--){
+        //     for(int j=0;j<triangle[i].size();j++){
+        //         int child1=triangle[i+1][j];
+        //         int child2=triangle[i+1][j+1];
+        //         triangle[i][j]+=min(child1,child2);
+        //     }
+        // }    
+        // return triangle[0][0];   
     }
+
+
 };
