@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/VaibhavKumar22/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VaibhavKumar22/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/VaibhavKumar22/DSA/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VaibhavKumar22/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/VaibhavKumar22/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/VaibhavKumar22/DSA/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/VaibhavKumar22/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/VaibhavKumar22/DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
