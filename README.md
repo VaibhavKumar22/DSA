@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VaibhavKumar22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3527-find-the-most-common-response](https://github.com/VaibhavKumar22/DSA/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VaibhavKumar22/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/VaibhavKumar22/DSA/tree/main/2055-plates-between-candles/) | Medium |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/VaibhavKumar22/DSA/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3527-find-the-most-common-response](https://github.com/VaibhavKumar22/DSA/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VaibhavKumar22/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/VaibhavKumar22/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3527-find-the-most-common-response](https://github.com/VaibhavKumar22/DSA/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/VaibhavKumar22/DSA/tree/main/0070-climbing-stairs/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3527-find-the-most-common-response](https://github.com/VaibhavKumar22/DSA/tree/main/3527-find-the-most-common-response/) | Medium |
 <!---LeetCode Topics End-->
