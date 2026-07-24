@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/VaibhavKumar22/DSA/tree/main/2055-plates-between-candles/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VaibhavKumar22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VaibhavKumar22/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/VaibhavKumar22/DSA/tree/main/0343-integer-break/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VaibhavKumar22/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/VaibhavKumar22/DSA/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VaibhavKumar22/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VaibhavKumar22/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Topological Sort
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/VaibhavKumar22/DSA/tree/main/1291-sequential-digits/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
