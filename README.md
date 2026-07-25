@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/VaibhavKumar22/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/VaibhavKumar22/DSA/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/VaibhavKumar22/DSA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/VaibhavKumar22/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/VaibhavKumar22/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/VaibhavKumar22/DSA/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/VaibhavKumar22/DSA/tree/master/0212-word-search-ii) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/VaibhavKumar22/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/VaibhavKumar22/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/VaibhavKumar22/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VaibhavKumar22/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/VaibhavKumar22/DSA/tree/master/1331-rank-transform-of-an-array) |
