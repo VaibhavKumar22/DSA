@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VaibhavKumar22/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/VaibhavKumar22/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/VaibhavKumar22/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VaibhavKumar22/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VaibhavKumar22/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/VaibhavKumar22/DSA/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/VaibhavKumar22/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VaibhavKumar22/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VaibhavKumar22/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Topological Sort
