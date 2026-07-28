@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VaibhavKumar22/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/VaibhavKumar22/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/VaibhavKumar22/DSA/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/VaibhavKumar22/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/VaibhavKumar22/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/VaibhavKumar22/DSA/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [0994-rotting-oranges](https://github.com/VaibhavKumar22/DSA/tree/master/0994-rotting-oranges) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VaibhavKumar22/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/VaibhavKumar22/DSA/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/VaibhavKumar22/DSA/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/VaibhavKumar22/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0994-rotting-oranges](https://github.com/VaibhavKumar22/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/VaibhavKumar22/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VaibhavKumar22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/VaibhavKumar22/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/VaibhavKumar22/DSA/tree/main/0198-house-robber/) | Medium |
 | [0343-integer-break](https://github.com/VaibhavKumar22/DSA/tree/main/0343-integer-break/) | Medium |
+| [0741-cherry-pickup](https://github.com/VaibhavKumar22/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/VaibhavKumar22/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Simulation
