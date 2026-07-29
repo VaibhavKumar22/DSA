@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/VaibhavKumar22/DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VaibhavKumar22/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2055-plates-between-candles](https://github.com/VaibhavKumar22/DSA/tree/main/2055-plates-between-candles/) | Medium |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/VaibhavKumar22/DSA/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
 | [2498-frog-jump-ii](https://github.com/VaibhavKumar22/DSA/tree/main/2498-frog-jump-ii/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VaibhavKumar22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/VaibhavKumar22/DSA/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
 | [2498-frog-jump-ii](https://github.com/VaibhavKumar22/DSA/tree/main/2498-frog-jump-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Bit Manipulation
