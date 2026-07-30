@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VaibhavKumar22/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VaibhavKumar22/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2055-plates-between-candles](https://github.com/VaibhavKumar22/DSA/tree/main/2055-plates-between-candles/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VaibhavKumar22/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/VaibhavKumar22/DSA/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3527-find-the-most-common-response](https://github.com/VaibhavKumar22/DSA/tree/main/3527-find-the-most-common-response/) | Medium |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/VaibhavKumar22/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0343-integer-break](https://github.com/VaibhavKumar22/DSA/tree/main/0343-integer-break/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VaibhavKumar22/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VaibhavKumar22/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/VaibhavKumar22/DSA/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/VaibhavKumar22/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/VaibhavKumar22/DSA/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
 | [2498-frog-jump-ii](https://github.com/VaibhavKumar22/DSA/tree/main/2498-frog-jump-ii/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VaibhavKumar22/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
