@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/VaibhavKumar22/DSA/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/VaibhavKumar22/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/VaibhavKumar22/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/VaibhavKumar22/DSA/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [0994-rotting-oranges](https://github.com/VaibhavKumar22/DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/VaibhavKumar22/DSA/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/VaibhavKumar22/DSA/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/VaibhavKumar22/DSA/tree/main/0741-cherry-pickup/) | Hard |
+| [0931-minimum-falling-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/VaibhavKumar22/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/VaibhavKumar22/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/VaibhavKumar22/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/VaibhavKumar22/DSA/tree/main/0343-integer-break/) | Medium |
 | [0741-cherry-pickup](https://github.com/VaibhavKumar22/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/VaibhavKumar22/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/VaibhavKumar22/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Simulation
