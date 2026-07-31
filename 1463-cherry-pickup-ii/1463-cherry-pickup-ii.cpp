@@ -7,9 +7,7 @@ class Solution {
         if(dp[i1][j1][i2][j2]!=-1)return dp[i1][j1][i2][j2];
         //on last row
         if(i1==n-1 && i2==n-1 && j1!=j2)return grid[i1][j1]+grid[i2][j2];
-
         int cherry=grid[i1][j1]+grid[i2][j2];
-
         //rd is right down ,d is down and ld is left down if l_rd then d is for robot 1 and rd is for robot 2
         //robot 1 left down robot 2 all moves
         int ld_ld=solve(i1+1,j1-1,i2+1,j2-1,n,m,grid,dp);
