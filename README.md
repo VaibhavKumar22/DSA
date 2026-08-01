@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/VaibhavKumar22/DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/VaibhavKumar22/DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [1289-minimum-falling-path-sum-ii](https://github.com/VaibhavKumar22/DSA/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/VaibhavKumar22/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/VaibhavKumar22/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/VaibhavKumar22/DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/VaibhavKumar22/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/VaibhavKumar22/DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [1289-minimum-falling-path-sum-ii](https://github.com/VaibhavKumar22/DSA/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/VaibhavKumar22/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VaibhavKumar22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Trie
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/VaibhavKumar22/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/VaibhavKumar22/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1289-minimum-falling-path-sum-ii](https://github.com/VaibhavKumar22/DSA/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/VaibhavKumar22/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Simulation
