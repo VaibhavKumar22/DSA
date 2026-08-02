@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VaibhavKumar22/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/VaibhavKumar22/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/VaibhavKumar22/DSA/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/VaibhavKumar22/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/VaibhavKumar22/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/VaibhavKumar22/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VaibhavKumar22/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0740-delete-and-earn](https://github.com/VaibhavKumar22/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VaibhavKumar22/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/VaibhavKumar22/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/VaibhavKumar22/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/VaibhavKumar22/DSA/tree/main/0198-house-robber/) | Medium |
 | [0343-integer-break](https://github.com/VaibhavKumar22/DSA/tree/main/0343-integer-break/) | Medium |
+| [0740-delete-and-earn](https://github.com/VaibhavKumar22/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/VaibhavKumar22/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/VaibhavKumar22/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
