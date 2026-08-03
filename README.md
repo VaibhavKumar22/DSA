@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/VaibhavKumar22/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/VaibhavKumar22/DSA/tree/master/0079-word-search) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0062-unique-paths](https://github.com/VaibhavKumar22/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/VaibhavKumar22/DSA/tree/main/0070-climbing-stairs/) | Easy |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/VaibhavKumar22/DSA/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
 | [2498-frog-jump-ii](https://github.com/VaibhavKumar22/DSA/tree/main/2498-frog-jump-ii/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VaibhavKumar22/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
