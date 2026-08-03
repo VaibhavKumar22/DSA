@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/VaibhavKumar22/DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/VaibhavKumar22/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/VaibhavKumar22/DSA/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/VaibhavKumar22/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/VaibhavKumar22/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/VaibhavKumar22/DSA/tree/master/0733-flood-fill) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/VaibhavKumar22/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/VaibhavKumar22/DSA/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0343-integer-break](https://github.com/VaibhavKumar22/DSA/tree/main/0343-integer-break/) | Medium |
 | [0740-delete-and-earn](https://github.com/VaibhavKumar22/DSA/tree/main/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/VaibhavKumar22/DSA/tree/main/0741-cherry-pickup/) | Hard |
