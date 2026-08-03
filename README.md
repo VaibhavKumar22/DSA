@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/VaibhavKumar22/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/VaibhavKumar22/DSA/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VaibhavKumar22/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/VaibhavKumar22/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/VaibhavKumar22/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/VaibhavKumar22/DSA/tree/master/0212-word-search-ii) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0062-unique-paths](https://github.com/VaibhavKumar22/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/VaibhavKumar22/DSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/VaibhavKumar22/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/VaibhavKumar22/DSA/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VaibhavKumar22/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
