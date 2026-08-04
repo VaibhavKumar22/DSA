@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/VaibhavKumar22/DSA/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3731-find-missing-elements](https://github.com/VaibhavKumar22/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VaibhavKumar22/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/VaibhavKumar22/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/VaibhavKumar22/DSA/tree/main/3527-find-the-most-common-response/) | Medium |
+| [3731-find-missing-elements](https://github.com/VaibhavKumar22/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/VaibhavKumar22/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/VaibhavKumar22/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VaibhavKumar22/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
