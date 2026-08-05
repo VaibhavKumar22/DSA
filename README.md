@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VaibhavKumar22/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VaibhavKumar22/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VaibhavKumar22/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/VaibhavKumar22/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/VaibhavKumar22/DSA/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VaibhavKumar22/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VaibhavKumar22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/VaibhavKumar22/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/VaibhavKumar22/DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/VaibhavKumar22/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VaibhavKumar22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/VaibhavKumar22/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VaibhavKumar22/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
